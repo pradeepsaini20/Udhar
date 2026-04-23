@@ -1,0 +1,23 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+  padding: 10px;
+  background: #e5e5e5;
+  border-radius: 6px;
+  transition: 0.2s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+.item {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.item:hover {
+  background: #f9f9f9;
+}
